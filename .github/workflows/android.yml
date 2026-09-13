@@ -8,7 +8,7 @@ jobs:
 build:
 runs-on: ubuntu-latest
 
-```
+
 steps:
   - name: Checkout repository
     uses: actions/checkout@v4
@@ -38,4 +38,3 @@ steps:
     with:
       name: space-horoscope-apk
       path: bin/*.apk
-```

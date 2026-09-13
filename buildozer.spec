@@ -22,7 +22,7 @@ source.main = space.py
 
 # Файлы, которые нужно включить в APK
 
-source.include_exts = py,png,jpg,jpeg
+source.include_exts = py
 
 # Версия приложения
 

@@ -13,7 +13,6 @@ from kivy.uix.button import Button
 
 class SpaceApp(App):
 
-```
 def recommendation(self, instance):
 
     secret = random.randint(1, 10)
@@ -117,7 +116,6 @@ def build(self):
     layout.add_widget(button_exit)
 
     return layout
-```
 
 # -------------------------------------------------
 
